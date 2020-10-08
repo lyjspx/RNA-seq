@@ -15,7 +15,7 @@ Four steps
   $ stringtie -G <ref.gtf> sort.bam -o OUTFILE -e -B
   OR 
   $ stringtie -G <GTF> <$sort> -e -o <$table> -b <./$files/>
-	4)	get expression table
+4)	get expression table
 python2 prepDE.py -i ./STRINGTIE`
   5)  Using Rscript deseq.R to detect DE gene
   
