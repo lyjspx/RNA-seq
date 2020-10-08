@@ -16,6 +16,6 @@ Four steps
   OR 
   $ stringtie -G <GTF> <$sort> -e -o <$table> -b <./$files/>
 	4)	get expression table
-python2 prepDE.py -i ./STRINGTIE`;####core  command  #########OUTPUT gene_count_matrix.cs
+python2 prepDE.py -i ./STRINGTIE`
   5)  Using Rscript deseq.R to detect DE gene
   
