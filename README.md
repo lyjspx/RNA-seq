@@ -1,5 +1,5 @@
 # RNA-seq
-
+Preparation
 1)	Genome, xx.fa;
 2)	Annotation, xx.gtf;
 3)	Reads, xx.fastq.gz;
